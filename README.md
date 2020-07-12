@@ -1,4 +1,4 @@
-### Hi there 👋
+# [Hi there 👋! I'm Peter but everyone calls me Shox. I'm a software developer, UI/UX designer, and Communications Designer. Check out my work](/preview-image.gif)
 
 <!--
 **shoxadomokai/shoxadomokai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
